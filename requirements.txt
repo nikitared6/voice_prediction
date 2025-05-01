@@ -7,5 +7,3 @@ sounddevice
 scikit-learn
 joblib
 xgboost
-standard-aifc
-standard-sunau
